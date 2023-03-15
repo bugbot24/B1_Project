@@ -1,0 +1,18 @@
+html {
+    background-image: linear-gradient(to bottom right, rgb(206, 142, 239), rgb(113, 107, 233));
+    background-repeat: no-repeat;
+}
+
+div {
+    width: 20%;
+    background-color: aliceblue;
+    border-radius: 2rem;
+    padding-bottom: 1.2rem;
+    display: inline-block;
+    margin: 1.6rem;
+}
+
+div img {
+    width: 100%;
+    border-radius: 2rem;
+}
